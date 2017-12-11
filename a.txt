@@ -1,2 +1,3 @@
 hello world
 i have learnt some of git
+now i am trying push-pull
